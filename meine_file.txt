@@ -1,0 +1,5 @@
+@from time import time
+@t_i=time()
+@print "$cat /dev/zero > erwirk.infinity
+@t_f=time()
+
